@@ -27,12 +27,12 @@ Angular 17, TypeScript, Nx
 Start staff app
 ```shell
 npm install
-npx nx serve staff-ap
+npx nx serve staff-app
 ```
 Start customer app
 ```shell
 npm install
-npx nx serve customer-ap
+npx nx serve customer-app
 ```
 
 We can access the product management screen via http://localhost:4200/product-mng and the product detail screen via http://localhost:4200/product-detail
