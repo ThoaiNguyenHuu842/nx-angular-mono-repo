@@ -20,6 +20,9 @@ Create product detail library
 npx nx g @nx/angular:library product --directory=libs/product --standalone
 ```
 
+# Tech stack
+Angular 17, TypeScript, Nx
+
 ## How to get started?
 Start staff app
 ```shell
@@ -32,5 +35,5 @@ npm install
 npx nx serve customer-ap
 ```
 
-We can access product management screen via http://localhost:4200/product-mng and product detail screen via http://localhost:4200/product-detail
+We can access the product management screen via http://localhost:4200/product-mng and the product detail screen via http://localhost:4200/product-detail
 
